@@ -1,9 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: Lý do sử dụng design pattern
 ---
-[Source](https://www.codeproject.com/Tips/808058/Reasons-for-using-design-patterns "Permalink to Reasons for using design patterns")
-
 # Lý do sử dụng design pattern
 
 ## Giới thiệu
